@@ -2,6 +2,9 @@ Project Description :The Blog Application is a web-based platform developed usin
     The application allows users to perform CRUD(Create, Read, Update, Delete) operations on both blog posts and comments. 
     The system also includes features such as retrieving comments for a particular post, applying pagination and sorting,
     Spring MVC,JAVA 8,implementing Spring validation for input data, and securing the application using Spring Security,JWT (JSON Web Token) for user authentication.
+
+
+
 Key Feature:
     User Authentication with JWT:Implement user authentication using JWT tokens to secure the application.
     Exception handling:Implement exception handling to throw an exception if comments are not found for a specific post.
